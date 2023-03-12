@@ -1,0 +1,4 @@
+Hola
+Mundo
+Este es un ejemplo de archivo de texto
+con diferentes longitudes de cadenas
